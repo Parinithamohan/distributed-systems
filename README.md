@@ -1,4 +1,4 @@
-# Uber Clone — Full Stack Ride-Hailing App
+# Uber — Full Stack Ride-Hailing App
 
 A fully functional **MERN stack** Uber clone with real-time ride booking, live GPS tracking, Socket.IO-powered notifications, a complete payment confirmation flow, and a forgot-password OTP system.
 
